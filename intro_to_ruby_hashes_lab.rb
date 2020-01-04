@@ -14,6 +14,10 @@ def monopoly
 end
 
 def monopoly_with_second_tier
+<<<<<<< HEAD
+=======
+	def monopoly
+>>>>>>> 2c7e96bfb9bea6022cfd89a323a7960537fe459b
   monopoly = {
     railroads: {
       pieces: 4,
